@@ -7,7 +7,7 @@ about:
   head: 5259fa6
   archived: false
   latestVersion: v0.29.0
-  collectedAt: 2026-09-04T19:20:45Z
+  collectedAt: 2026-09-04T21:15:00Z
 timeline:
   created: 2025-03-02
   lastCommit: 2026-08-17
@@ -82,5 +82,43 @@ total:
   openIssue: 0
   commit: 400
 ---
+path: /home/runner/.x-repo/github.com/utox39/zigfetch
+collectedAt: 2026-09-04T21:15:01Z
+loc:
+  Zig:
+    code: 2227
+    comments: 246
+    blanks: 597
+    files: 25
+  Json:
+    code: 69
+    comments: 0
+    blanks: 0
+    files: 1
+  Nix:
+    code: 27
+    comments: 0
+    blanks: 6
+    files: 2
+  CHeader:
+    code: 16
+    comments: 8
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 252
+    blanks: 110
+    files: 4
+  Text:
+    code: 0
+    comments: 28
+    blanks: 0
+    files: 1
+total:
+  code: 2383
+  comments: 538
+  blanks: 716
+  files: 35
 ---
 
