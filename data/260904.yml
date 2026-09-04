@@ -1,11 +1,13 @@
 about:
-  description: Zigfetch is a minimal neofetch/fastfetch like system information tool
+  description:
+  |
+    Zigfetch is a minimal neofetch/fastfetch like system information tool
   license: MIT
   homepage: 
   head: 5259fa6
   archived: false
   latestVersion: v0.29.0
-  collectedAt: 2026-09-04T03:59:44Z
+  collectedAt: 2026-09-04T19:20:45Z
 timeline:
   created: 2025-03-02
   lastCommit: 2026-08-17
@@ -16,16 +18,24 @@ popularity:
   fork: 3
   release: 32
   contributor: 3
-  pullRequest: 0
+  pullRequest: 34
   issue: 6
 language:
   Zig: 113320
   C: 676
   Nix: 522
-totalLine: 114518
+totalBytes: 114518
 recent:
   last30d:
     since: 2026-08-05
+    release: 2
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 8
+  last60d:
+    since: 2026-07-06
     release: 2
     mergedPR: 2
     openPR: 0
@@ -56,3 +66,21 @@ recent:
     closedIssue: 6
     openIssue: 0
     commit: 133
+  last720d:
+    since: 2024-09-14
+    release: 32
+    mergedPR: 34
+    openPR: 0
+    closedIssue: 6
+    openIssue: 0
+    commit: 400
+total:
+  release: 32
+  mergedPR: 34
+  openPR: 0
+  closedIssue: 6
+  openIssue: 0
+  commit: 400
+---
+---
+
