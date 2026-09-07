@@ -5,7 +5,7 @@ about:
   head: 5259fa6
   archived: false
   latestVersion: "v0.29.0"
-  collectedAt: 2026-09-07T05:09:23Z
+  collectedAt: 2026-09-07T19:21:17Z
 timeline:
   created: 2025-03-02
   lastCommit: 2026-08-17
@@ -81,7 +81,7 @@ total:
   commit: 400
 ---
 path: /home/runner/.x-repo/github.com/utox39/zigfetch
-collectedAt: 2026-09-07T05:09:25Z
+collectedAt: 2026-09-07T19:21:17Z
 loc:
   Zig:
     code: 2227
@@ -122,7 +122,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:09:28+00:00
+  collectedAt: 2026-09-07T19:21:18+00:00
   platform:
     darwin/arm64:
       name:  zigfetch-aarch64-darwin.zip
