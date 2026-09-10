@@ -22,7 +22,14 @@ x install zigfetch
 - **Latest**: `v0.30.0` (2026-09-09)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 3
-- **Published**: 2026-09-09T12:52:31Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [zigfetch-aarch64-darwin.zip](https://github.com/utox39/zigfetch/releases/download/v0.30.0/zigfetch-aarch64-darwin.zip) | 301.0 KiB | `native/darwin/arm64` |
+| [zigfetch-x86_64-darwin.zip](https://github.com/utox39/zigfetch/releases/download/v0.30.0/zigfetch-x86_64-darwin.zip) | 301.0 KiB | `native/darwin/x64` |
+| [zigfetch-x86_64-linux.zip](https://github.com/utox39/zigfetch/releases/download/v0.30.0/zigfetch-x86_64-linux.zip) | 1.3 MiB | `native/linux/x64` |
 
 ## Popularity
 
@@ -57,8 +64,8 @@ Total: **2,413** lines of code across **34** files in the top 5 languages.
 Install metadata for zigfetch lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `zigfetch` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/zigfetch.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/zigfetch.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:16:20Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T17:03:09Z._

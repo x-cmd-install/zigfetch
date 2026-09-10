@@ -4,7 +4,7 @@
 
 Zigfetch is a minimal neofetch/fastfetch like system information tool
 
-![zigfetch](https://repo.x-cmd.io/zigfetch.svg)
+![zigfetch](https://repo.x-cmd.io/zigfetch.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,14 @@ x install zigfetch
 - **最新版本**: `v0.30.0` (2026-09-09)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 3 个
-- **发布时间**: 2026-09-09T12:52:31Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [zigfetch-aarch64-darwin.zip](https://github.com/utox39/zigfetch/releases/download/v0.30.0/zigfetch-aarch64-darwin.zip) | 301.0 KiB | `native/darwin/arm64` |
+| [zigfetch-x86_64-darwin.zip](https://github.com/utox39/zigfetch/releases/download/v0.30.0/zigfetch-x86_64-darwin.zip) | 301.0 KiB | `native/darwin/x64` |
+| [zigfetch-x86_64-linux.zip](https://github.com/utox39/zigfetch/releases/download/v0.30.0/zigfetch-x86_64-linux.zip) | 1.3 MiB | `native/linux/x64` |
 
 ## 流行度
 
@@ -61,4 +68,4 @@ zigfetch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:16:20Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:03:09Z._
