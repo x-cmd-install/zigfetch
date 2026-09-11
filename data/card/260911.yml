@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.30.0"
   latestRelease: "v0.30.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:26:41Z
+  collectedAt: 2026-09-11T19:31:13Z
 timeline:
   created: 2025-03-02
   lastCommit: 2026-09-09
@@ -85,7 +85,7 @@ total:
   commit: 407
 ---
 path: /home/runner/.x-repo/github.com/utox39/zigfetch
-collectedAt: 2026-09-11T05:26:41Z
+collectedAt: 2026-09-11T19:31:14Z
 loc:
   Zig:
     code: 2294
