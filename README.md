@@ -14,11 +14,11 @@ x install zigfetch
 
 ## Code insight
 
-Total: **2,413** lines of code across **34** files in the top 5 languages.
+Total: **2,417** lines of code across **34** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Zig | 2,294 | 264 | 615 | 25 |
+| Zig | 2,298 | 267 | 616 | 25 |
 | Json | 69 | 0 | 0 | 1 |
 | Nix | 27 | 0 | 6 | 2 |
 | CHeader | 23 | 8 | 0 | 2 |
@@ -31,8 +31,8 @@ Total: **2,413** lines of code across **34** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.30.0` (2026-09-09)
-- **Last commit**: 2026-09-20
+- **Latest**: `v0.31.0` (2026-10-17)
+- **Last commit**: 2026-10-17
 - **Assets in release**: 3
 
 ## Popularity
@@ -41,26 +41,26 @@ Total: **2,413** lines of code across **34** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 35 · **Open PRs**: 0 · **Closed issues**: 6 · **Open issues**: 0 · **Commits**: 409
+- **Releases**: 34 · **Merged PRs**: 36 · **Open PRs**: 0 · **Closed issues**: 6 · **Open issues**: 0 · **Commits**: 425
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last60d | 2026-08-18 | 1 | 1 | 0 | 0 | 0 | 8 |
-| 90d | 2026-07-19 | 3 | 3 | 0 | 0 | 0 | 16 |
-| last180d | 2026-04-20 | 6 | 5 | 0 | 3 | 0 | 21 |
-| 360d | 2025-10-22 | 8 | 8 | 0 | 5 | 0 | 91 |
-| last720d | 2024-10-27 | 33 | 35 | 0 | 6 | 0 | 409 |
+| 30d | 2026-09-18 | 1 | 1 | 0 | 0 | 0 | 10 |
+| last60d | 2026-08-19 | 2 | 2 | 0 | 0 | 0 | 18 |
+| 90d | 2026-07-20 | 4 | 4 | 0 | 0 | 0 | 27 |
+| last180d | 2026-04-21 | 6 | 6 | 0 | 3 | 0 | 32 |
+| 360d | 2025-10-23 | 9 | 9 | 0 | 5 | 0 | 102 |
+| last720d | 2024-10-28 | 34 | 36 | 0 | 6 | 0 | 425 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [zigfetch-aarch64-darwin.zip](https://github.com/utox39/zigfetch/releases/download/v0.30.0/zigfetch-aarch64-darwin.zip) | 301.0 KiB | `native/darwin/arm64` |
-| [zigfetch-x86_64-darwin.zip](https://github.com/utox39/zigfetch/releases/download/v0.30.0/zigfetch-x86_64-darwin.zip) | 301.0 KiB | `native/darwin/x64` |
-| [zigfetch-x86_64-linux.zip](https://github.com/utox39/zigfetch/releases/download/v0.30.0/zigfetch-x86_64-linux.zip) | 1.3 MiB | `native/linux/x64` |
+| [zigfetch-aarch64-darwin.zip](https://github.com/utox39/zigfetch/releases/download/v0.31.0/zigfetch-aarch64-darwin.zip) | 305.5 KiB | `native/darwin/arm64` |
+| [zigfetch-x86_64-darwin.zip](https://github.com/utox39/zigfetch/releases/download/v0.31.0/zigfetch-x86_64-darwin.zip) | 305.6 KiB | `native/darwin/x64` |
+| [zigfetch-x86_64-linux.zip](https://github.com/utox39/zigfetch/releases/download/v0.31.0/zigfetch-x86_64-linux.zip) | 1.4 MiB | `native/linux/x64` |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for zigfetch lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:45:22Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T04:50:25Z._

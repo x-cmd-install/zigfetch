@@ -14,11 +14,11 @@ x install zigfetch
 
 ## 代码洞察
 
-合计: **2,413** 行代码（覆盖前 5 种语言、共 **34** 个文件）。
+合计: **2,417** 行代码（覆盖前 5 种语言、共 **34** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Zig | 2,294 | 264 | 615 | 25 |
+| Zig | 2,298 | 267 | 616 | 25 |
 | Json | 69 | 0 | 0 | 1 |
 | Nix | 27 | 0 | 6 | 2 |
 | CHeader | 23 | 8 | 0 | 2 |
@@ -31,8 +31,8 @@ x install zigfetch
 
 ## 发布
 
-- **最新版本**: `v0.30.0` (2026-09-09)
-- **最近提交**: 2026-09-20
+- **最新版本**: `v0.31.0` (2026-10-17)
+- **最近提交**: 2026-10-17
 - **Release 含资产**: 3 个
 
 ## 流行度
@@ -41,26 +41,26 @@ x install zigfetch
 
 ## 累计统计
 
-- **发布数**: 33 · **已合并 PR**: 35 · **开放 PR**: 0 · **已关闭 issue**: 6 · **开放 issue**: 0 · **提交数**: 409
+- **发布数**: 34 · **已合并 PR**: 36 · **开放 PR**: 0 · **已关闭 issue**: 6 · **开放 issue**: 0 · **提交数**: 425
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last60d | 2026-08-18 | 1 | 1 | 0 | 0 | 0 | 8 |
-| 90d | 2026-07-19 | 3 | 3 | 0 | 0 | 0 | 16 |
-| last180d | 2026-04-20 | 6 | 5 | 0 | 3 | 0 | 21 |
-| 360d | 2025-10-22 | 8 | 8 | 0 | 5 | 0 | 91 |
-| last720d | 2024-10-27 | 33 | 35 | 0 | 6 | 0 | 409 |
+| 30d | 2026-09-18 | 1 | 1 | 0 | 0 | 0 | 10 |
+| last60d | 2026-08-19 | 2 | 2 | 0 | 0 | 0 | 18 |
+| 90d | 2026-07-20 | 4 | 4 | 0 | 0 | 0 | 27 |
+| last180d | 2026-04-21 | 6 | 6 | 0 | 3 | 0 | 32 |
+| 360d | 2025-10-23 | 9 | 9 | 0 | 5 | 0 | 102 |
+| last720d | 2024-10-28 | 34 | 36 | 0 | 6 | 0 | 425 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [zigfetch-aarch64-darwin.zip](https://github.com/utox39/zigfetch/releases/download/v0.30.0/zigfetch-aarch64-darwin.zip) | 301.0 KiB | `native/darwin/arm64` |
-| [zigfetch-x86_64-darwin.zip](https://github.com/utox39/zigfetch/releases/download/v0.30.0/zigfetch-x86_64-darwin.zip) | 301.0 KiB | `native/darwin/x64` |
-| [zigfetch-x86_64-linux.zip](https://github.com/utox39/zigfetch/releases/download/v0.30.0/zigfetch-x86_64-linux.zip) | 1.3 MiB | `native/linux/x64` |
+| [zigfetch-aarch64-darwin.zip](https://github.com/utox39/zigfetch/releases/download/v0.31.0/zigfetch-aarch64-darwin.zip) | 305.5 KiB | `native/darwin/arm64` |
+| [zigfetch-x86_64-darwin.zip](https://github.com/utox39/zigfetch/releases/download/v0.31.0/zigfetch-x86_64-darwin.zip) | 305.6 KiB | `native/darwin/x64` |
+| [zigfetch-x86_64-linux.zip](https://github.com/utox39/zigfetch/releases/download/v0.31.0/zigfetch-x86_64-linux.zip) | 1.4 MiB | `native/linux/x64` |
 
 ## 改进这些数据
 
@@ -71,4 +71,4 @@ zigfetch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261017.yml` · 2026-10-17T04:45:23Z._
+_数据快照: `data/card/261018.yml` · 2026-10-18T04:50:25Z._
