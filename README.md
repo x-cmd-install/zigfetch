@@ -37,7 +37,7 @@ Total: **2,417** lines of code across **34** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 53 · **Forks**: 3 · **Open issues**: 6 · **Contributors**: 3
+- **Stars**: 54 · **Forks**: 3 · **Open issues**: 6 · **Contributors**: 3
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **2,417** lines of code across **34** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 1 | 0 | 0 | 0 | 10 |
-| last60d | 2026-08-22 | 2 | 2 | 0 | 0 | 0 | 18 |
-| 90d | 2026-07-23 | 4 | 4 | 0 | 0 | 0 | 27 |
-| last180d | 2026-04-24 | 6 | 6 | 0 | 2 | 0 | 32 |
-| 360d | 2025-10-26 | 9 | 9 | 0 | 5 | 0 | 102 |
-| last720d | 2024-10-31 | 34 | 36 | 0 | 6 | 0 | 425 |
+| 30d | 2026-09-22 | 1 | 1 | 0 | 0 | 0 | 10 |
+| last60d | 2026-08-23 | 2 | 2 | 0 | 0 | 0 | 18 |
+| 90d | 2026-07-24 | 4 | 4 | 0 | 0 | 0 | 27 |
+| last180d | 2026-04-25 | 6 | 6 | 0 | 2 | 0 | 32 |
+| 360d | 2025-10-27 | 9 | 9 | 0 | 5 | 0 | 102 |
+| last720d | 2024-11-01 | 34 | 36 | 0 | 6 | 0 | 425 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for zigfetch lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:05:38Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:06:04Z._
