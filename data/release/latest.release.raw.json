@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/utox39/zigfetch/releases/416037647",
-  "assets_url": "https://api.github.com/repos/utox39/zigfetch/releases/416037647/assets",
-  "upload_url": "https://uploads.github.com/repos/utox39/zigfetch/releases/416037647/assets{?name,label}",
-  "html_url": "https://github.com/utox39/zigfetch/releases/tag/v0.31.0",
-  "id": 416037647,
+  "url": "https://api.github.com/repos/utox39/zigfetch/releases/442102731",
+  "assets_url": "https://api.github.com/repos/utox39/zigfetch/releases/442102731/assets",
+  "upload_url": "https://uploads.github.com/repos/utox39/zigfetch/releases/442102731/assets{?name,label}",
+  "html_url": "https://github.com/utox39/zigfetch/releases/tag/v0.32.0",
+  "id": 442102731,
   "author": {
     "login": "utox39",
     "id": 99440446,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOOB5Njc4YzDsP",
-  "tag_name": "v0.31.0",
+  "node_id": "RE_kwDOOB5Njc4aWfPL",
+  "tag_name": "v0.32.0",
   "target_commitish": "main",
-  "name": "zigfetch v0.31.0",
+  "name": "zigfetch v0.32.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-17T20:12:53Z",
-  "updated_at": "2026-10-17T20:19:41Z",
-  "published_at": "2026-10-17T20:19:41Z",
+  "created_at": "2026-11-11T19:01:57Z",
+  "updated_at": "2026-11-11T19:07:46Z",
+  "published_at": "2026-11-11T19:07:46Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/utox39/zigfetch/releases/assets/651500805",
-      "id": 651500805,
-      "node_id": "RA_kwDOOB5Njc4m1R0F",
+      "url": "https://api.github.com/repos/utox39/zigfetch/releases/assets/736633098",
+      "id": 736633098,
+      "node_id": "RA_kwDOOB5Njc4r6CEK",
       "name": "zigfetch-aarch64-darwin.zip",
       "label": null,
       "uploader": {
@@ -65,17 +65,17 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 312883,
-      "digest": "sha256:bf1e24ad25b85ceabf33265dcef6d37564c297fd5830770d61c4b463412a9757",
-      "download_count": 6,
-      "created_at": "2026-10-17T20:19:36Z",
-      "updated_at": "2026-10-17T20:19:37Z",
-      "browser_download_url": "https://github.com/utox39/zigfetch/releases/download/v0.31.0/zigfetch-aarch64-darwin.zip"
+      "size": 313321,
+      "digest": "sha256:28bae49a0036f33df4e29acacb3837479425bfc82f8425ebfa102cc39ba12c86",
+      "download_count": 3,
+      "created_at": "2026-11-11T19:07:20Z",
+      "updated_at": "2026-11-11T19:07:21Z",
+      "browser_download_url": "https://github.com/utox39/zigfetch/releases/download/v0.32.0/zigfetch-aarch64-darwin.zip"
     },
     {
-      "url": "https://api.github.com/repos/utox39/zigfetch/releases/assets/651500750",
-      "id": 651500750,
-      "node_id": "RA_kwDOOB5Njc4m1RzO",
+      "url": "https://api.github.com/repos/utox39/zigfetch/releases/assets/736633063",
+      "id": 736633063,
+      "node_id": "RA_kwDOOB5Njc4r6CDn",
       "name": "zigfetch-x86_64-darwin.zip",
       "label": null,
       "uploader": {
@@ -101,17 +101,17 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 312885,
-      "digest": "sha256:0b9cb647fba65a79495e51e5236194dbf335bea3511980a5919ef57d4b2327ee",
-      "download_count": 1,
-      "created_at": "2026-10-17T20:19:35Z",
-      "updated_at": "2026-10-17T20:19:36Z",
-      "browser_download_url": "https://github.com/utox39/zigfetch/releases/download/v0.31.0/zigfetch-x86_64-darwin.zip"
+      "size": 313319,
+      "digest": "sha256:eaafff900f5dfc616299155dfadc49af89e8cbf2f0d319bafe9c9fa314679ff9",
+      "download_count": 2,
+      "created_at": "2026-11-11T19:07:19Z",
+      "updated_at": "2026-11-11T19:07:20Z",
+      "browser_download_url": "https://github.com/utox39/zigfetch/releases/download/v0.32.0/zigfetch-x86_64-darwin.zip"
     },
     {
-      "url": "https://api.github.com/repos/utox39/zigfetch/releases/assets/651500674",
-      "id": 651500674,
-      "node_id": "RA_kwDOOB5Njc4m1RyC",
+      "url": "https://api.github.com/repos/utox39/zigfetch/releases/assets/736632968",
+      "id": 736632968,
+      "node_id": "RA_kwDOOB5Njc4r6CCI",
       "name": "zigfetch-x86_64-linux.zip",
       "label": null,
       "uploader": {
@@ -137,15 +137,15 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 1452280,
-      "digest": "sha256:fa0ba31960675cf9eef731bf39eee190c278eae5333fd8bbb1671117795646d7",
-      "download_count": 34,
-      "created_at": "2026-10-17T20:19:33Z",
-      "updated_at": "2026-10-17T20:19:35Z",
-      "browser_download_url": "https://github.com/utox39/zigfetch/releases/download/v0.31.0/zigfetch-x86_64-linux.zip"
+      "size": 1495668,
+      "digest": "sha256:a6c008a2cbde197efaf512317e2c43170eae45b134f6fc10044630448ec8c9ea",
+      "download_count": 15,
+      "created_at": "2026-11-11T19:07:18Z",
+      "updated_at": "2026-11-11T19:07:19Z",
+      "browser_download_url": "https://github.com/utox39/zigfetch/releases/download/v0.32.0/zigfetch-x86_64-linux.zip"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/utox39/zigfetch/tarball/v0.31.0",
-  "zipball_url": "https://api.github.com/repos/utox39/zigfetch/zipball/v0.31.0",
-  "body": "# Feat\r\n- use the new std.heap.SafeAllocator (e1cf13f)\r\n\r\n# Build\r\n- use translate-c as an explicit external dependency (3b4b4a4)\r\n- bump minimum zig version to 0.17.0 (8a16696)\r\n- build.zig: update build system to 0.17 (0ac832f)\r\n\r\n# Refactor\r\n- utils: use '@backingInt' instead of '@intFromEnum' (393ee52)\r\n- use 'std.mem.Allocator.print' instead of 'std.fmt.allocPrint' (bab7b8d)\r\n- build.zig: use 'target.os.tag' instead of 'os.tag' (acf4e16)\r\n- detection: use 'target.os.tag' instead of 'os.tag' (84ea6fe)\r\n\r\n# CI\r\n- build: bump zig version to 0.17.0 (7ee0301)"
+  "tarball_url": "https://api.github.com/repos/utox39/zigfetch/tarball/v0.32.0",
+  "zipball_url": "https://api.github.com/repos/utox39/zigfetch/zipball/v0.32.0",
+  "body": "# Feat\r\n- formatters: add the formatters for desktop environment info (4e5e1a7)\r\n- config: add the 'de' module for the desktop env (1eed1d1)\r\n- linux-system: add desktop environment detection (8ddb4f8)\r\n\r\n # Refactor\r\n- use '@backingInt' instead of '@intFromEnum' (34b8275)\r\n\r\n# Style\r\n- display: suppress lsp warning (4a6be0a)"
 }
