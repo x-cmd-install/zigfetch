@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 313321,
       "digest": "sha256:28bae49a0036f33df4e29acacb3837479425bfc82f8425ebfa102cc39ba12c86",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-11T19:07:20Z",
       "updated_at": "2026-11-11T19:07:21Z",
       "browser_download_url": "https://github.com/utox39/zigfetch/releases/download/v0.32.0/zigfetch-aarch64-darwin.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 313319,
       "digest": "sha256:eaafff900f5dfc616299155dfadc49af89e8cbf2f0d319bafe9c9fa314679ff9",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-11T19:07:19Z",
       "updated_at": "2026-11-11T19:07:20Z",
       "browser_download_url": "https://github.com/utox39/zigfetch/releases/download/v0.32.0/zigfetch-x86_64-darwin.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1495668,
       "digest": "sha256:a6c008a2cbde197efaf512317e2c43170eae45b134f6fc10044630448ec8c9ea",
-      "download_count": 15,
+      "download_count": 18,
       "created_at": "2026-11-11T19:07:18Z",
       "updated_at": "2026-11-11T19:07:19Z",
       "browser_download_url": "https://github.com/utox39/zigfetch/releases/download/v0.32.0/zigfetch-x86_64-linux.zip"
