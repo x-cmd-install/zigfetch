@@ -47,12 +47,12 @@ Total: **2,456** lines of code across **34** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 2 | 2 | 0 | 1 | 0 | 14 |
-| last60d | 2026-09-14 | 2 | 2 | 0 | 1 | 0 | 19 |
-| 90d | 2026-08-15 | 4 | 4 | 0 | 1 | 0 | 26 |
-| last180d | 2026-05-17 | 7 | 7 | 0 | 2 | 0 | 37 |
-| 360d | 2025-11-18 | 10 | 10 | 0 | 5 | 0 | 108 |
-| last720d | 2024-11-23 | 35 | 37 | 0 | 7 | 0 | 433 |
+| 30d | 2026-10-15 | 2 | 2 | 0 | 1 | 0 | 14 |
+| last60d | 2026-09-15 | 2 | 2 | 0 | 1 | 0 | 19 |
+| 90d | 2026-08-16 | 4 | 4 | 0 | 1 | 0 | 26 |
+| last180d | 2026-05-18 | 7 | 6 | 0 | 2 | 0 | 37 |
+| 360d | 2025-11-19 | 10 | 10 | 0 | 5 | 0 | 108 |
+| last720d | 2024-11-24 | 35 | 37 | 0 | 7 | 0 | 433 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for zigfetch lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:12:38Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:56:53Z._
