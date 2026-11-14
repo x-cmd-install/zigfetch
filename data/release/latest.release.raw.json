@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1495668,
       "digest": "sha256:a6c008a2cbde197efaf512317e2c43170eae45b134f6fc10044630448ec8c9ea",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-11-11T19:07:18Z",
       "updated_at": "2026-11-11T19:07:19Z",
       "browser_download_url": "https://github.com/utox39/zigfetch/releases/download/v0.32.0/zigfetch-x86_64-linux.zip"
